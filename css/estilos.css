@@ -1,0 +1,39 @@
+body {
+    background-image: url("https://lh3.googleusercontent.com/proxy/T3Kk5ghwU5P71TW3E2keYxqZp3Kl7E_Nk53TPso3YII6mGXc6FqIVz413qkO5JvgcL5JyOqBA-IfNmfrX9YSkHrlQGUlR4-Kw0RGLUVQwCqw_D14LGktpxY1DKX8RRX8ZNd05CpOo19IGFOlX9fPAnVoqZJ0Pj0LqiOzIg");
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: white; 
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: black; 
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: #8968CD;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    color: black;
+  }
+  
